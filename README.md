@@ -7,16 +7,16 @@ This project aims to detect fraudulent credit card transactions using Machine Le
 The dataset contains 284,807 transactions, including 492 fraud cases. Features V1–V28 are anonymized using PCA transformation, along with Time and Amount.
 
 ## Models Used
-Logistic Regression
-KNN
-Decision Tree
-Random Forest
-XGBoost
+* Logistic Regression
+* KNN
+* Decision Tree
+* Random Forest
+* XGBoost
 
 ## Imbalance Handling Techniques
-Random Oversampling
-SMOTE
-ADASYN
+* Random Oversampling
+* SMOTE
+* ADASYN
 
 ## Best Model
 
