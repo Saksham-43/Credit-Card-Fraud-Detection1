@@ -20,7 +20,7 @@ The dataset contains 284,807 transactions, including 492 fraud cases. Features V
 
 ## Best Model
 
-XGBoost with SMOTE achieved the best performance based on ROC-AUC score.
+XGBoost with SMOTE achieved the best performance based on Accuracy and ROC-AUC score.
 
 ## Streamlit App
 
